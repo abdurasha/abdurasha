@@ -1,0 +1,42 @@
+body {
+    margin: 0 0;
+    padding: 0 0;
+    box-sizing: border-box;
+    background-color: gray
+    
+}
+
+
+.header{
+    color:blue;
+}
+
+.header .bot {
+    color:white;
+
+}
+.b{
+    color:blue;
+}
+.body{
+    color:white;
+}
+.c{
+    color:blue;
+}
+.v ul li {
+    list-style: none;
+    color:white;
+}
+img {
+    height: 300px;
+}
+.v{
+    color:blue;
+}
+.ggg{
+    color:blue;
+}
+.gt{
+    color:white;
+}
